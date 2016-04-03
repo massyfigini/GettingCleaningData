@@ -1,5 +1,3 @@
-#Intro
-
 This repository contains my work for the course project for the Coursera course "Getting and Cleaning data", part of the Data Science specialization.  
 There is an R script called "run_analysis.R" and a "CodeBook.md" that indicate the variables and summaries calculated.  
 
